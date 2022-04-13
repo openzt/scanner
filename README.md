@@ -1,6 +1,6 @@
 # Overview
 
-Vulnerability scanner for Open Zero Trust @ Container Security Platform.
+Vulnerability scanner for Open Zero Trust Container Security Platform.
 
 # Bugs & Issues
 Please submit bugs and issues to [openzt/openzerotrust](//github.com/openzt/openzerotrust/issues) with a title starting with `[SCAN] `.
